@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<farm>
+    <name>Pigi-farm</name>
+    <corral>
+        <corral floor="1" room="1">
+            <pigs>
+                <pig name="Petya" type="Tester" image="https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.softwaretestingmagazine.com%2Fwp-content%2Fuploads%2Faa-group-1-developer-2-screens.jpg&amp;tbnid=Khc7uarbaCbSUM&amp;vet=12ahUKEwiDtbDM1a-CAxWAnP0HHTHBD08QMygaegQIARB7..i&amp;imgrefurl=https%3A%2F%2Fwww.softwaretestingmagazine.com%2Fknowledge%2Ftransitioning-from-software-tester-to-software-developer%2F&amp;docid=m5z0K0ZkDFMkgM&amp;w=640&amp;h=427&amp;q=programmer%20tester%20photo&amp;client=safari&amp;ved=2ahUKEwiDtbDM1a-CAxWAnP0HHTHBD08QMygaegQIARB7" />
+                <pig name="Vovka" type="small Tester" image="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRzdbDY9OKNsMKYXtz301-2Lbz59oiMSlvSwg&amp;usqp=CAU" />
+                <pig name="Nikita" type="Small Tester" image="https://krasivosti.pro/uploads/posts/2022-09/1663056393_5-krasivosti-pro-p-ochen-zhirnaya-svinya-oboi-10.jpg" />
+            </pigs>
+        </corral>
+        <corral floor="1" room="2">
+            <pigs>
+                <pig name="Nastya" type="Nice Tester" image="https://i.pinimg.com/736x/66/09/3a/66093aaca1fb6983cf267b00c3815aaa.jpg" />
+                <pig name="Danya" type="Nice Tester" image="https://krasivosti.pro/uploads/posts/2021-09/1632786311_45-krasivosti-pro-p-svin-pauk-zhivotnie-krasivo-foto-56.jpg" />
+                <pig name="Misha" type="Small Tester" image="https://cdnstatic.rg.ru/uploads/images/216/26/30/pig1000.jpg" />
+            </pigs>
+        </corral>
+    </corral>
+</farm>
